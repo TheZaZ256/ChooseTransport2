@@ -1,0 +1,65 @@
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Kyiv Date Departure: 2023-10-15 Time Departure: 08:00 Date Arrival: 2023-10-15 Time Arrival: 23:50Class: 2 Cost: 50
+From: Kyiv To: Rovno Date Departure: 2023-10-16 Time Departure: 01:55 Date Arrival: 2023-10-16 Time Arrival: 18:00Class: 1 Cost: 20
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Warsaw Date Departure: 2023-10-15 Time Departure: 06:00 Date Arrival: 2023-10-15 Time Arrival: 08:00Class: 1 Cost: 120
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 10:00 Date Arrival: 2023-10-15 Time Arrival: 14:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-15 Time Departure: 23:00 Date Arrival: 2023-10-16 Time Arrival: 01:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Warsaw Date Departure: 2023-10-15 Time Departure: 06:00 Date Arrival: 2023-10-15 Time Arrival: 08:00Class: 1 Cost: 120
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 10:00 Date Arrival: 2023-10-15 Time Arrival: 14:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-16 Time Departure: 02:00 Date Arrival: 2023-10-16 Time Arrival: 04:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Warsaw Date Departure: 2023-10-15 Time Departure: 06:00 Date Arrival: 2023-10-15 Time Arrival: 08:00Class: 1 Cost: 120
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 15:00 Date Arrival: 2023-10-15 Time Arrival: 18:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-15 Time Departure: 23:00 Date Arrival: 2023-10-16 Time Arrival: 01:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Warsaw Date Departure: 2023-10-15 Time Departure: 06:00 Date Arrival: 2023-10-15 Time Arrival: 08:00Class: 1 Cost: 120
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 15:00 Date Arrival: 2023-10-15 Time Arrival: 18:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-16 Time Departure: 02:00 Date Arrival: 2023-10-16 Time Arrival: 04:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Warsaw Date Departure: 2023-10-15 Time Departure: 06:00 Date Arrival: 2023-10-15 Time Arrival: 08:00Class: 1 Cost: 120
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 18:00 Date Arrival: 2023-10-15 Time Arrival: 22:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-16 Time Departure: 02:00 Date Arrival: 2023-10-16 Time Arrival: 04:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Berlin Date Departure: 2023-10-15 Time Departure: 05:00 Date Arrival: 2023-10-15 Time Arrival: 07:00Class: 1 Cost: 200
+From: Berlin To: Warsaw Date Departure: 2023-10-15 Time Departure: 09:00 Date Arrival: 2023-10-15 Time Arrival: 12:00Class: 2 Cost: 50
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 15:00 Date Arrival: 2023-10-15 Time Arrival: 18:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-15 Time Departure: 23:00 Date Arrival: 2023-10-16 Time Arrival: 01:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Berlin Date Departure: 2023-10-15 Time Departure: 05:00 Date Arrival: 2023-10-15 Time Arrival: 07:00Class: 1 Cost: 200
+From: Berlin To: Warsaw Date Departure: 2023-10-15 Time Departure: 09:00 Date Arrival: 2023-10-15 Time Arrival: 12:00Class: 2 Cost: 50
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 15:00 Date Arrival: 2023-10-15 Time Arrival: 18:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-16 Time Departure: 02:00 Date Arrival: 2023-10-16 Time Arrival: 04:00Class: 1 Cost: 15
+
+
+Enoupgh time for Transfer:
+
+From: Moscow To: Berlin Date Departure: 2023-10-15 Time Departure: 05:00 Date Arrival: 2023-10-15 Time Arrival: 07:00Class: 1 Cost: 200
+From: Berlin To: Warsaw Date Departure: 2023-10-15 Time Departure: 09:00 Date Arrival: 2023-10-15 Time Arrival: 12:00Class: 2 Cost: 50
+From: Warsaw To: Lviv Date Departure: 2023-10-15 Time Departure: 18:00 Date Arrival: 2023-10-15 Time Arrival: 22:00Class: 1 Cost: 30
+From: Lviv To: Rovno Date Departure: 2023-10-16 Time Departure: 02:00 Date Arrival: 2023-10-16 Time Arrival: 04:00Class: 1 Cost: 15
